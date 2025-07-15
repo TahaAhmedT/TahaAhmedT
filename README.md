@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=700&color=FF040D&center=true&vCenter=true&width=435&lines=AI+Engineer;Fresh+Grade+From+FCAI-CU" alt="Typing SVG" /></a>
 </p>
 <br>
+<hr>
 
 ## About Me:
 
